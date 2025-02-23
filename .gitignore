@@ -1,0 +1,37 @@
+﻿# Archivos generados por Visual Studio y .NET
+bin/
+obj/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+.vs/
+
+# Configuraciones específicas de entorno
+appsettings.Development.json
+secrets.json
+.env
+
+# Archivos de dependencias y compilación
+node_modules/
+wwwroot/lib/
+dist/
+
+# Archivos de logs y depuración
+logs/
+*.log
+*.tlog
+dump/
+
+# Archivos de paquetes NuGet
+*.nupkg
+*.snupkg
+.nuget/
+
+# Configuración de IDEs (Visual Studio, Rider, VS Code)
+.idea/
+*.code-workspace
+.vscode/
+
+# Archivos de Docker (si usas contenedores)
+docker-compose.override.yml

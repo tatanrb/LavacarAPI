@@ -1,0 +1,6 @@
+@LavacarAPI_HostAddress = http://localhost:5081
+
+GET {{LavacarAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
